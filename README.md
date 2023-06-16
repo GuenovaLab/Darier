@@ -1,6 +1,8 @@
 # Darrier
 A single-cell RNA analysis of in-house Darrier disease integrated with Psoriasis and Healthy samples (GEO portal number GSE162183). 
 
+## Usage
+In order to run the analysis, first put the Darrier matrices as well as the Psoriasis and Healthy matrices from GSE162183 in an "input" folder. Then, run the R script.
 
 ## Methods
 
