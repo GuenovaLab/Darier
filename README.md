@@ -1,8 +1,13 @@
-# Darrier
-A single-cell RNA analysis of in-house Darrier disease integrated with Psoriasis and Healthy samples (GEO portal number GSE162183). 
+# Darier
+[![DOI](https://zenodo.org/badge/654606763.svg)](https://zenodo.org/badge/latestdoi/654606763)
+
+A single-cell RNA analysis of in-house Darier disease integrated with Psoriasis and Healthy samples (GEO portal number GSE162183). 
+
+
+
 
 ## Usage
-In order to run the analysis, first put the Darrier matrices as well as the Psoriasis and Healthy matrices from GSE162183 in an "input" folder. Then, run the R script.
+In order to run the analysis, first put the Darier matrices as well as the Psoriasis and Healthy matrices from GSE162183 in an "input" folder. Then, run the R script.
 
 ## Methods
 
